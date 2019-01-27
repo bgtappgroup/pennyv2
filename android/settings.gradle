@@ -1,0 +1,3 @@
+rootProject.name = 'pennyv2'
+
+include ':app'
